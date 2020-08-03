@@ -21,6 +21,13 @@ spring.jpa.hibernate.ddl-auto=none
 ```
 
 <br>
-  
+
+# 컴파일 설정
+* settings -> gradle 검색
+![gradle_compile](images/1_gradlecompile.png)
+
+<br>
+
+
 # 참고자료
 * 김영한님 유투브 강의: https://youtu.be/pwPxKPWIrX8
